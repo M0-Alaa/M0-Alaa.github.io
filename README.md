@@ -30,26 +30,26 @@ I enjoy building embedded systems, designing circuits, and coding robust applica
 
 # Skills
 • Technical Skills:
-  Programming: C, C++, Python, Java, C#
+  - Programming: C, C++, Python, Java, C#
 
-• Hardware Programming: Verilog, Arduino IDE
+  - Hardware Programming: Verilog, Arduino IDE
+  
+  - Simulation Tools: MATLAB, Keil, Questa, Simulink, Mars
+  
+  - Circuit & PCB Design: AutoCAD, Multisim, Proteus
+  
+  - Other Tools: Visual Studio Code, Code::Blocks
 
-• Simulation Tools: MATLAB, Keil, Questa, Simulink, Mars
-
-• Circuit & PCB Design: AutoCAD, Multisim, Proteus
-
-• Other Tools: Visual Studio Code, Code::Blocks
-
-# Soft Skills
-• Problem-Solving
-
-• Teamwork & Leadership
-
-• Communication & Report Writing
-
-• Adaptability
-
-• Working under Pressure
+• Soft Skills
+  - Problem-Solving
+  
+  - Teamwork & Leadership
+  
+  - Communication & Report Writing
+  
+  - Adaptability
+  
+  - Working under Pressure
 
 #Work Experience
 • IT Intern – PIS
