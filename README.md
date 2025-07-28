@@ -51,7 +51,7 @@ I enjoy building embedded systems, designing circuits, and coding robust applica
   
   - Working under Pressure
 
-#Work Experience
+# Work Experience
 • IT Intern – PIS
   July 2025
 
